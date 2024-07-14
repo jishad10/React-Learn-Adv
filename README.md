@@ -1,2 +1,2 @@
 # React-Learn-Adv
-react routing,redux,typescript etc for practise
+redux,react routing,typescript etc for practise
